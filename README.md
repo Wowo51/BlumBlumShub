@@ -72,10 +72,6 @@ dotnet test BlumBlumShubTest
 - Avoid reusing the modulus `n` for different applications to maintain security.
 
 ![AI Image](aiimage.jpg)
-</br>
-Hire me and my Raven code generation system to generate your C# code. Fast, cost effective, thoroughly unit tested.<br>
-[TranscendAI.tech](https://TranscendAI.tech)<br>
-<br>
 Copyright [TranscendAI.tech](https://TranscendAI.tech) 2025.</br>
 Authored by Warren Harding. AI assisted.</br>
 
